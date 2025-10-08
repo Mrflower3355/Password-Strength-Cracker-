@@ -1,6 +1,6 @@
 # I dont know really why windows defender flag the EXE files as a virus:( man i deleted all exe files only now the .py if you wish for an exe do it with pyinstaller
 # My second project (The project is complete maybe there will be patches i dunnno)
-#  Brute-Force Cracking Simulator: Your Password Strength Tester (GUI, CLI, & EXE)
+#  Brute-Force Cracking Simulator: Your Password Strength Tester (GUI, CLI)
 Attribution: Inspired by the educational efforts of Geekcomputers. Check out their GitHub here!
 https://github.com/geekcomputers
 #  Why Test Your Passwords? (The Core Benefit)
