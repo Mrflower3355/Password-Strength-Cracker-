@@ -1,4 +1,4 @@
-# 🛡️ Brute-Force Cracking Simulator: Your Password Strength Tester (GUI, CLI, & EXE)
+# 🛡️ Brute-Force Cracking Simulator: Your Password Strength Tester (GUI, CLI,)
 
 **Attribution:** Inspired by the educational efforts of **Geekcomputers**. [Check out their GitHub here!](https://github.com/geekcomputers) The custom icons were made by alfredo-creates. [Go check him out here!](https://www.flaticon.com/authors/alfredo-creates)
 
@@ -16,11 +16,9 @@ In a world full of digital threats, the strongest defense starts with **self-ass
 
 ---
 
-## ⚠️ CRITICAL NOTE: Windows Defender False Positive
+##  CRITICAL NOTE
 
-# Man i dont know why the exe files get flagged as a virus:(
-
----
+#The exe files got me suspended and i got my account finally i will not do anymore exe files only py from here to on other project to keep my account safe
 
 ## ✨ Available Versions & Execution
 
