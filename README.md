@@ -1,6 +1,6 @@
 # I dont know really why windows defender flag the EXE files as a virus:(
 # My second project (The project is complete maybe there will be patches i dunnno)
-#  Brute-Force Cracking Simulator: Your Password Strength Tester (GUI, CLI)
+#  Brute-Force Cracking Simulator: Your Password Strength Tester (GUI, CLI,EXE)
 Attribution: Inspired by the educational efforts of Geekcomputers. Check out their GitHub here!
 https://github.com/geekcomputers
 Thank alfredo-creates he made Icon that i use to my exe files go check him https://www.flaticon.com/authors/alfredo-creates
