@@ -27,8 +27,6 @@ The project offers full flexibility, whether you prefer visual feedback or comma
 | :--- | :--- | :--- |
 | **Graphical User Interface (GUI)** | `cracker_app.py` | Users who prefer a **visual interface**, complete with a live dashboard and progress bars. |
 | **Command Line Interface (CLI)** | `cracker_cli.py` | Developers who need **speed, raw data**, and a live-updating attempts counter. |
-| **Executable (EXE)** | `cracker_cli.exe / cracker_app.exe` | **Windows users who don't want to install Python.** |
-
 ---
 
 ## 🚀 Quick Start
@@ -42,18 +40,6 @@ Ensure the project files (`core_logic.py`, `cracker_cli.py`, `cracker_app.py`) a
 | **GUI** | `python cracker_app.py` |
 | **CLI** | `python cracker_cli.py` |
 
-### 2. Run the Executable (Windows EXE)
-
-If you're using the ready-made executable (check the `dist` folder):
-
-1.  Open Command Prompt (CMD) or PowerShell.
-2.  Navigate to the executable's folder.
-3.  Run it:
-    ```bash
-    .\cracker_cli.exe
-    ```
-
----
 
 ## 🤝 Contribution
 
