@@ -3,6 +3,7 @@
 #  Brute-Force Cracking Simulator: Your Password Strength Tester (GUI, CLI)
 Attribution: Inspired by the educational efforts of Geekcomputers. Check out their GitHub here!
 https://github.com/geekcomputers
+Thank alfredo-creates he made Icon that i use to my exe files go check him https://www.flaticon.com/authors/alfredo-creates
 #  Why Test Your Passwords? (The Core Benefit)
 Wondering if your passwords are strong enough to withstand a real attack? This educational tool is here to help! It provides a realistic simulation of Brute-Force Attacks so you can measure the actual time it would take for modern hardware (CPU, GPU, ASIC) to compromise your digital defenses.
 
