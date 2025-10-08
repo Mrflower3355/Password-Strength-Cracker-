@@ -17,8 +17,7 @@ In a world full of digital threats, the strongest defense starts with **self-ass
 ---
 
 ##  CRITICAL NOTE
-
-#The exe files got me suspended and i got my account finally i will not do anymore exe files only py from here to on other project to keep my account safe
+### The exe files got me suspended and i got my account finally i will not do anymore exe files only py from here to on other project to keep my account safe
 
 ## ✨ Available Versions & Execution
 
