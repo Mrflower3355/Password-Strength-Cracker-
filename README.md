@@ -1,9 +1,9 @@
 # I dont know really why windows defender flag the EXE files as a virus:( man i deleted all exe files only now the .py if you wish for an exe do it with pyinstaller
 # My second project (The project is complete maybe there will be patches i dunnno)
-# 🛡️ Brute-Force Cracking Simulator: Your Password Strength Tester (GUI, CLI, & EXE)
+#  Brute-Force Cracking Simulator: Your Password Strength Tester (GUI, CLI, & EXE)
 Attribution: Inspired by the educational efforts of Geekcomputers. Check out their GitHub here!
 https://github.com/geekcomputers
-# 💡 Why Test Your Passwords? (The Core Benefit)
+#  Why Test Your Passwords? (The Core Benefit)
 Wondering if your passwords are strong enough to withstand a real attack? This educational tool is here to help! It provides a realistic simulation of Brute-Force Attacks so you can measure the actual time it would take for modern hardware (CPU, GPU, ASIC) to compromise your digital defenses.
 
 ### In a world full of digital threats, the strongest defense starts with self-assessment. Use this simulator to:
@@ -18,7 +18,7 @@ Choose Your Risk Level: Select between the
 100%
  (Worst-Case Scenario) to tailor the time estimate to your specific security needs.
 
-# ✨ Available Versions & Execution
+#  Available Versions & Execution
 The project offers full flexibility, whether you prefer visual feedback or command-line efficiency:
 
 ### Version	Files	Key Features
@@ -26,7 +26,7 @@ The project offers full flexibility, whether you prefer visual feedback or comma
 ### Command Line Interface (CLI)	cracker_cli.py	Developers who need speed, raw data, and a live-updating attempts counter.
 ### Executable (EXE)	cracker_cli.exe / cracker_app.exe	Windows users who don't want to install Python.
 
-# 🚀 Quick Start
+#  Quick Start
 ### 1. Run from Source Code (Python Source)
 ### Ensure the project files (core_logic.py, cracker_cli.py, cracker_app.py) are together.
 
